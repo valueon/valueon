@@ -1,0 +1,5 @@
+- 👋 Hallo zusammen, wir sind @valueon
+- 👀 Wir machen Digitalisierung und messen was es bringt
+- 🌱 Hier entsteht unsere Bibliothek für einen einfacheren Geschäftsalltag
+- 💞️ Wir arbeiten mit Entwicklerinnen und kreativen Personen zusammen 
+- 📫 p.motsch@valueon.ch
